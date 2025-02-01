@@ -1,7 +1,7 @@
 # CS50
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/douglasdotv/cs50x/blob/master/README.md)  
-[![fa](https://img.shields.io/badge/lang-fa-blue.svg)](https://github.com/douglasdotv/cs50x/blob/master/README.fa.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/amin-Lotfi/-CS50-Projects/blob/main/README.md)  
+[![fa](https://img.shields.io/badge/lang-fa-blue.svg)](https://github.com/amin-Lotfi/-CS50-Projects/blob/main/READMEFA.md)
 
 This repository contains materials for **CS50**, Harvard University's introduction to computer science and the art of programming. It includes practice problems, labs, and problem sets for each week, along with a final project.
 
