@@ -1,7 +1,7 @@
 # CS50
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/douglasdotv/cs50x/blob/master/README.md)  
-[![fa](https://img.shields.io/badge/lang-fa-blue.svg)](https://github.com/douglasdotv/cs50x/blob/master/README.fa.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/amin-Lotfi/-CS50-Projects/blob/main/README.md)  
+[![fa](https://img.shields.io/badge/lang-fa-blue.svg)](https://github.com/amin-Lotfi/-CS50-Projects/blob/main/READMEFA.md)
 
 این مخزن شامل مطالب دوره **CS50**، دوره‌ای مقدماتی در زمینه علوم کامپیوتر و برنامه‌نویسی از دانشگاه هاروارد است. این دوره شامل مسائل عملی، آزمایشگاه‌ها و مجموعه مسائل برای هر هفته به همراه یک پروژه نهایی در یک مخزن جداگانه می‌باشد.
 
